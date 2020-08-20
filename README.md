@@ -1,0 +1,9 @@
+### Node.js / Express / TypeScript BoilerPlate
+
+##### Getting Started
+
+1. Clone this repo...
+2. Install dependencies (npm install)...
+3. Run webpack scripts (npm run webpack) from one terminal...
+4. ... and from another terminal, (npm start) and server will start listening!
+5. Save often and watch your terminal for errors! Happy coding!
